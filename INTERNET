@@ -1,0 +1,25 @@
+How does the internet work
+> Cara kerja internet adalah dengan memanfaatkan alamat IP yang menjadi penghubung antara server-server di seluruh dunia
+
+What is HTTP
+> komponen website yang mengatur pertukaran data yang terjadi di dalam internet
+
+Browser and how they work?
+> Aplikasi perangkat luank yang memungkinkan pengguna untuk mengakses dan menampilkan halaman web
+> User sedang mengakses sebuah website dengan cara mengetikkan alamat situs atau URL
+  Kemudian web browser menerima permintaan dari si user dan akan melakukan fetching (pengambilan data) pada DNS Server.
+  Data yang telah diambil berupa IP dari perintah yang diketikkan user (contoh : www.google.com). Web browser telah mendapatkan IP dari www.google.com
+  Selanjutnya, web browser mengakses ke server dengan IP yang telah didapatkan dari DNS Server.
+  Server memberikan data konten dari www.google.com dalam bentuk HTML dan file lain, seperti CSS, PHP, dll.
+  Setelah itu, web browser menampilkan konten yang sesuai dengan permintaan user.
+ 
+DNS and how it work
+> DNS server meminta informasi domain atau nama situs web yang akan dikunjungi. DNS server kemudian mencocokkan nama tersebut dengan angka berupa alamat IP. 
+DNS lokal kemudian akan mencari alamat IP tersebut di cache lokal yang tersimpan dalam komputer DNS server meminta informasi domain atau nama situs web yang akan dikunjungi.
+DNS server kemudian mencocokkan nama tersebut dengan angka berupa alamat IP. DNS lokal kemudian akan mencari alamat IP tersebut di cache lokal yang tersimpan dalam komputer.
+
+What is domain name
+> Mengakses situs web seperti google.com, dan facebook.com. Pengguna dapat terhubung ke situs web menggunakan nama domain berkat sistem DNS
+
+What is hosting
+> Hosting adalah sistem layanan online untuk mengelola sebuah situs oleh pengguna untuk ditampilkan melalui media internet.
